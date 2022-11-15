@@ -1,0 +1,56 @@
+/* *{
+    outline: 1px dotted red;
+} */
+
+#header-title{
+    padding-top: 30px;
+}
+
+body {
+    color: whitesmoke;
+    background-color: rgb(86, 49, 49);
+}
+
+h1{
+    font-family: 'Cinzel Decorative', cursive;
+}
+
+.heading{
+    color: black;
+}
+
+label{
+    color: black;
+}
+
+span {
+    padding-right: 10px;
+    color: black;
+}
+
+.input-group-addon{
+    padding-top: 5px;
+}
+
+#dollarSign{
+    padding-right: 30px;
+}
+
+#tipInput{
+    padding-right: 85px;
+}
+
+/* ------------------------------------------------------ */
+/* Results */
+
+#results h5 {
+    color: black;
+}
+
+#copyright{
+    margin-top: 20px;
+}
+
+footer{
+    padding-top: 250px;
+}
